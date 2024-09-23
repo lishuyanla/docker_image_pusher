@@ -1,5 +1,5 @@
-# opensearch镜像地址
-opensearchproject/opensearch-dashboards:2.11.1
+# 应用商店
+kubesphere/apps-manage:v2.0.1
 
 
 
