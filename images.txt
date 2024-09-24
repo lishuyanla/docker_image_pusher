@@ -1,5 +1,4 @@
-# 应用商店
-kubesphere/apps-manage:v2.0.1
+kubesphere/opensearch-curator:v0.0.5
 
 
 
