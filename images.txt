@@ -1,1 +1,2 @@
-rabbitmq:3.13.7-management-alpine
+kinboy/kkfileview:4.4.0-beta
+keking/kkfileview:4.1.0
