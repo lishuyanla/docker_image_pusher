@@ -1,1 +1,1 @@
-kubespheredev/builder-base:v3.1.0-podman
+xiaocaoandxiaoxi/builder-maven
