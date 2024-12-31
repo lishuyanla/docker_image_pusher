@@ -1,1 +1,1 @@
-ghcr.io/kubesphere/builder-maven:v3.3.1-jdk17
+kubespheredev/builder-base:v3.1.0-podman
