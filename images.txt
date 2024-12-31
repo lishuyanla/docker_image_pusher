@@ -1,1 +1,1 @@
-xiaocaoandxiaoxi/builder-maven
+xiaocaoandxiaoxi/builder-maven:jdk21
