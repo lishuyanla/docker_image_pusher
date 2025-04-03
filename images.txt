@@ -1,1 +1,1 @@
-docker.io/bitnami/postgresql:11.14.0-debian-10-r22
+docker.elastic.co/elasticsearch/elasticsearch:7.17.3
