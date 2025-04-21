@@ -1,1 +1,1 @@
-rabbitmq:3.11.28-management
+bitnami/rabbitmq:3.11.28-debian-12-r10
